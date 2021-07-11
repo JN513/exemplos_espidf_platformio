@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DSDKCONFIG=/home/julio/Documents/PlatformIO/Projects/testeatom/sdkconfig;-DIDF_PATH=/home/julio/esp/esp-idf;-DIDF_TARGET=esp32;-DPYTHON_DEPS_CHECKED=1;-DPYTHON=/home/julio/.espressif/python_env/idf4.3_py3.8_env/bin/python;-DEXTRA_COMPONENT_DIRS=/home/julio/esp/esp-idf/components/bootloader;-DLEGACY_INCLUDE_COMMON_HEADERS=;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'

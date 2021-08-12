@@ -3,7 +3,6 @@
 #include "freertos/task.h"
 #include "driver/gpio.h"
 
-
 const gpio_num_t led = GPIO_NUM_2;
 
 void setup(void);
